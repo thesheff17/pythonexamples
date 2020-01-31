@@ -5,3 +5,5 @@
 ### notebook examples 
 
 * 0001_introduction.ipynb <a href="https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0001_introduction.ipynb" target="blank">Binder</a>
+* 0001_introduciion.ipynb [External link](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0001_introduction.ipynb){:target="_blank"}
+
