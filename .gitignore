@@ -1,0 +1,23 @@
+*~
+.DS_Store
+*.pyc
+*.un~
+*.swp
+.svn
+.project
+.pydevproject
+.idea
+local_settings.py
+/media
+/static
+logs/*
+/logs
+docker/ebConfig/Dockerrun.aws.json
+docker/main/env.txt
+.vscode
+*.log
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
