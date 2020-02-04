@@ -8,8 +8,8 @@ When people say they know python on a resume or on an interview...Do they
 really know it?  You should know most of the concepts below.
 
 ### notebook examples
-| File Name                    | Binder Link |
-| ---------------------------- |:-----------:|
+| File Names                   | Binder Links |
+| ---------------------------- |:------------:|
 | 0001_introduction.ipynb      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0001_introduction.ipynb) |
 | 0002_strings.ipynb           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0002_strings.ipynb) |
 | 0003_numbers.ipynb           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0003_numbers.ipynb) |
