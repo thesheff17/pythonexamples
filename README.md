@@ -26,7 +26,7 @@ really know it?  You should know most of the concepts below.
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
   party tools using what is in
   [requirements.txt](https://github.com/thesheff17/pythonexamples/blob/master/requirements.txt) file. [pip](https://pip.pypa.io/en/stable/) is the package manager to install 3rd party tools for python.
-* Each platform is different.  You can learn more about it [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) 
+* Each operating system installation is a little different.  See [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) for installing on each platform ie: mac, linux, windows.
 * once you have the python virtualenv activated we want to clone the repo:
 ```bash
 git clone git@github.com:thesheff17/pythonexamples.git
