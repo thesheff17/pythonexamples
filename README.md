@@ -23,8 +23,8 @@ really know it?  You should know most of the concepts below.
 
 
 ### running this locally
-* you should run this inside a virtualenv setup.  A virtualenv is an isolated areas to install 3rd
-  party tools using packages in requirements.txt. pip is the package manager to install 3rd party
+* you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
+  party tools using what is in requirements.txt. pip is the package manager to install 3rd party
   tools for python.
 * Each platform is different.  You can learn more about it [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 * once you have the python virtualenv activated we want to clone the repo:
@@ -35,6 +35,10 @@ git clone git@github.com:thesheff17/pythonexamples.git
 ```bash
 cd pythonexamples
 pip install -r requirements.txt
+```
+* you can always see what packages are installed with:
+```bash
+pip freeze
 ```
 * now run the juypter notebook:
 ```bash
