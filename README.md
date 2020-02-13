@@ -21,6 +21,27 @@ really know it?  You should know most of the concepts below.
 | 0009_classes.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0009_classes.ipynb) |
 | 0010_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_arg_parser.ipynb) |
 
+
+### running this locally
+* you should run this inside a virtualenv setup.  A virtualenv is an isolated areas to install 3rd
+  party tools using packages in requirements.txt. pip is the package manager to install 3rd party
+  tools for python.
+* Each platform is different.  You can learn more about it [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+* once you have the python virtualenv activated we want to clone the repo:
+```bash
+git clone git@github.com:thesheff17/pythonexamples.git
+```
+* now lets install the packages:
+```bash
+cd pythonexamples
+pip install -r requirements.txt
+```
+* now run the juypter notebook:
+```bash
+cd src
+juypter notebook
+```
+
 ### how does this work?
 * [jupyter](https://jupyter.org/)
 * [docker](https://docker.com/)
