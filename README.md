@@ -45,6 +45,8 @@ pip freeze
 cd src
 juypter notebook
 ```
+* The juypter notebook should automatically launch your web browser and visit the correct url.
+  if it doesn't copy paste the url from the terminal that starts with: http://127.0.0.1:8888/  
 
 ### how does this work?
 * [jupyter](https://jupyter.org/)
