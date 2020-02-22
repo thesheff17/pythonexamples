@@ -22,6 +22,7 @@ really know it?  You should know most of the concepts below.
 | 0010_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_arg_parser.ipynb) |
 | 0011_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_unittests.ipynb) |
 | 0012_handling_exceptions.pynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_handling_exceptions.ipynb) |
+| 0013_single_pid_scripts.pynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_single_pid_scripts.pynb) |
 
 ### running this locally
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
