@@ -23,7 +23,7 @@ really know it?  You should know most of the concepts below.
 | 0011_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_unittests.ipynb) |
 | 0012_handling_exceptions.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_handling_exceptions.ipynb) |
 | 0013_single_pid_scripts.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_single_pid_scripts.ipynb) |
-| 0014_list_comprehension.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_list_comprehension) |
+| 0014_list_comprehension.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_list_comprehension.ipynb) |
 
 ### running this locally
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
