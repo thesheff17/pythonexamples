@@ -21,3 +21,6 @@ docker/main/env.txt
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# random other files I'm using
+src/square*
