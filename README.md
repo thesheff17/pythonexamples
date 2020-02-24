@@ -16,14 +16,15 @@ really know it?  You should know most of the concepts below.
 | 0004_lists_and_tuples.ipynb       | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0004_lists_and_tuples.ipynb) |
 | 0005_dict.ipynb                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0005_dict.ipynb) |
 | 0006_boolean.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0006_boolean.ipynb) |
-| 0007_file_manipulation.ipynb      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0007_file_manipulation.ipynb) |
-| 0008_error_handling_logging.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0008_error_handling_logging.ipynb) |
-| 0009_classes.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0009_classes.ipynb) |
-| 0010_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_arg_parser.ipynb) |
-| 0011_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_unittests.ipynb) |
-| 0012_handling_exceptions.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_handling_exceptions.ipynb) |
-| 0013_single_pid_scripts.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_single_pid_scripts.ipynb) |
-| 0014_list_comprehension.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_list_comprehension.ipynb) |
+| 0007_loops.ipynb                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%0007_loops.ipynb) |
+| 0008_file_manipulation.ipynb      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0008_file_manipulation.ipynb) |
+| 0009_error_handling_logging.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0009_error_handling_logging.ipynb) |
+| 0010_classes.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_classes.ipynb) |
+| 0011_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_arg_parser.ipynb) |
+| 0012_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_unittests.ipynb) |
+| 0013_handling_exceptions.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_handling_exceptions.ipynb) |
+| 0014_single_pid_scripts | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_single_pid_scripts.ipynb) |
+| 0015_list_comprehension.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0015_list_comprehension.ipynb) |
 
 ### running this locally
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
