@@ -12,7 +12,7 @@ RUN \
     cowsay
 
 # install the notebook package
-RUN pip3 install --no-cache --upgrade pip && \
+RUN pip3 install --no-cache --upgrade pip3 && \
     pip3 install --no-cache notebook
 
 # create user with a home directory
