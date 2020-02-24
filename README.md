@@ -23,7 +23,7 @@ really know it?  You should know most of the concepts below.
 | 0011_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_arg_parser.ipynb) |
 | 0012_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_unitests.ipynb) |
 | 0013_handling_exceptions.ipynb    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_handling_excentions.ipynb) |
-| 0014_single_pid_scripts           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_single_pid_scripts.ipynb) |
+| 0014_single_pid_scripts.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_single_pid_scripts.ipynb) |
 | 0015_list_comprehension.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0015_list_comprehension.ipynb) |
 
 ### running this locally
