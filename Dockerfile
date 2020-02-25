@@ -1,23 +1,21 @@
-FROM ubuntu:latest
-
-# time docker build . -t thesheff17/pythonexamples:latest 
+FROM python:3.7
+# docker build . -t thesheff17/pythonexamples:latest
 
 RUN \
     apt-get update && \
     apt-get upgrade -y && \
     export DEBIAN_FRONTEND=noninteractive && \
     apt-get install -yq \
-    python3-pip \
-    python3 \
+    build-essential \
     cowsay
 
 # install the notebook package
-RUN pip3 install --no-cache --upgrade pip3 && \
-    pip3 install --no-cache notebook
+RUN pip install --no-cache --upgrade pip && \
+    pip install --no-cache notebook
 
 # create user with a home directory
-ARG NB_USER
-ARG NB_UID
+ARG NB_USER=jovyan
+ARG NB_UID=1000
 ENV USER ${NB_USER}
 ENV HOME /home/${NB_USER}
 
