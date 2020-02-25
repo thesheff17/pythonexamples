@@ -1,3 +1,0 @@
-cowsay
-build-essential
-mysql-server
