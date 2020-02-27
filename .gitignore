@@ -24,3 +24,6 @@ docker/main/env.txt
 
 # random other files I'm using
 src/square*
+src/db.db
+src/movies.db
+src/fib*
