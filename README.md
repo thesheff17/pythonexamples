@@ -2,10 +2,7 @@
 
 ## more information can be found at [python](https://python.org) website.
 
-I will add tons of examples that progressively get more complicated. I will also store examples of features of the standard library in these examples. If you see any issues with anything please make a pull request.
-
-When people say they know python on a resume or on an interview...Do they
-really know it?  You should know most of the concepts below.
+Tutorials for python.  Please make pull requests if you see issues or want enhancements.  
 
 ### notebook examples
 | File Names                            | Binder Links |
