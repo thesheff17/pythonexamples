@@ -27,7 +27,7 @@ Tutorials for python.  Please make pull requests if you see issues or want enhan
 | 0018_decorators.ipynb                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators.ipynb) |
 | 0019_memory_speed_optimizations.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0019_memory_speed_optimizations.ipynb) |
 
-### running this locally
+### running this locally on your computer
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
   party tools using what is in
   [requirements.txt](https://github.com/thesheff17/pythonexamples/blob/master/requirements.txt) file. [pip](https://pip.pypa.io/en/stable/) is the package manager to install 3rd party tools for python.
