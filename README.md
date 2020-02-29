@@ -51,10 +51,26 @@ cd src
 juypter notebook
 ```
 * The juypter notebook should automatically launch your web browser and visit the correct url.
-  if it doesn't copy paste the url from the terminal that starts with: http://127.0.0.1:8888/
+  if it doesn't copy paste the url from the terminal that starts with: http://127.0.0.1:8888/.
+  If you get any errors make sure your virtualenv is activated and pip packages are correct.
+  Below is an example of my output after starting juypter. 
+```
+  [I 06:32:16.576 NotebookApp] Serving notebooks from local directory: ~/git/pythonexamples/src
+[I 06:32:16.576 NotebookApp] The Jupyter Notebook is running at:
+[I 06:32:16.576 NotebookApp] http://localhost:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[I 06:32:16.576 NotebookApp]  or http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[I 06:32:16.576 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 06:32:16.585 NotebookApp]
 
-### how does this work?
+    To access the notebook, open this file in a browser:
+        file:///~/Library/Jupyter/runtime/nbserver-43778-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     or http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+### Software used to power these tutorials.
+* [python](https://python.org/)
 * [jupyter](https://jupyter.org/)
 * [docker](https://docker.com/)
-* [python](https://python.org/)
 * [binder](https://mybinder.org/)
