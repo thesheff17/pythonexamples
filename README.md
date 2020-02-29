@@ -27,7 +27,7 @@ really know it?  You should know most of the concepts below.
 | 0015_list_comprehension.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0015_list_comprehension.ipynb) |
 | 0016_calling_c_from_python.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0016_calling_c_from_python.ipynb) |
 | 0017_sqlachemy.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0017_sqlalchemy.ipynb) |
-| 0018_decorators.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators) |
+| 0018_decorators.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators.ipynb) |
 ### running this locally
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
   party tools using what is in
