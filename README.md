@@ -55,7 +55,7 @@ juypter notebook
   If you get any errors make sure your virtualenv is activated and pip packages are correct.
   Below is an example of my output after starting juypter. 
 ```
-  [I 06:32:16.576 NotebookApp] Serving notebooks from local directory: ~/git/pythonexamples/src
+[I 06:32:16.576 NotebookApp] Serving notebooks from local directory: ~/git/pythonexamples/src
 [I 06:32:16.576 NotebookApp] The Jupyter Notebook is running at:
 [I 06:32:16.576 NotebookApp] http://localhost:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 [I 06:32:16.576 NotebookApp]  or http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
