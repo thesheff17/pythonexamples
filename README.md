@@ -8,26 +8,28 @@ When people say they know python on a resume or on an interview...Do they
 really know it?  You should know most of the concepts below.
 
 ### notebook examples
-| File Names                        | Binder Links |
-| ----------------------------------|:------------:|
-| 0001_introduction.ipynb           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0001_introduction.ipynb) |
-| 0002_strings.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0002_strings.ipynb) |
-| 0003_numbers.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0003_numbers.ipynb) |
-| 0004_lists_and_tuples.ipynb       | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0004_lists_and_tuples.ipynb) |
-| 0005_dict.ipynb                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0005_dict.ipynb) |
-| 0006_boolean.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0006_boolean.ipynb) |
-| 0007_loops_if_statements.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0007_loops_if_statements.ipynb) |
-| 0008_file_manipulation.ipynb      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0008_file_manipulation.ipynb) |
-| 0009_error_handling_logging.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0009_error_handling_logging.ipynb) |
-| 0010_classes.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_classes.ipynb) |
-| 0011_arg_parser.ipynb             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_arg_parser.ipynb) |
-| 0012_unittests.ipynb              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_unitests.ipynb) |
-| 0013_handling_exceptions.ipynb    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_handling_excentions.ipynb) |
-| 0014_single_pid_scripts.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_single_pid_scripts.ipynb) |
-| 0015_list_comprehension.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0015_list_comprehension.ipynb) |
-| 0016_calling_c_from_python.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0016_calling_c_from_python.ipynb) |
-| 0017_sqlachemy.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0017_sqlalchemy.ipynb) |
-| 0018_decorators.ipynb  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators.ipynb) |
+| File Names                            | Binder Links |
+| --------------------------------------|:------------:|
+| 0001_introduction.ipynb               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0001_introduction.ipynb) |
+| 0002_strings.ipynb                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0002_strings.ipynb) |
+| 0003_numbers.ipynb                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0003_numbers.ipynb) |
+| 0004_lists_and_tuples.ipynb           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0004_lists_and_tuples.ipynb) |
+| 0005_dict.ipynb                       | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0005_dict.ipynb) |
+| 0006_boolean.ipynb                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0006_boolean.ipynb) |
+| 0007_loops_if_statements.ipynb        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0007_loops_if_statements.ipynb) |
+| 0008_file_manipulation.ipynb          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0008_file_manipulation.ipynb) |
+| 0009_error_handling_logging.ipynb     | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0009_error_handling_logging.ipynb) |
+| 0010_classes.ipynb                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0010_classes.ipynb) |
+| 0011_arg_parser.ipynb                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0011_arg_parser.ipynb) |
+| 0012_unittests.ipynb                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0012_unitests.ipynb) |
+| 0013_handling_exceptions.ipynb        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0013_handling_excentions.ipynb) |
+| 0014_single_pid_scripts.ipynb         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0014_single_pid_scripts.ipynb) |
+| 0015_list_comprehension.ipynb         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0015_list_comprehension.ipynb) |
+| 0016_calling_c_from_python.ipynb      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0016_calling_c_from_python.ipynb) |
+| 0017_sqlachemy.ipynb                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0017_sqlalchemy.ipynb) |
+| 0018_decorators.ipynb                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators.ipynb) |
+| 0019_memory_speed_optimizations.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0019_memory_speed_optimizations.ipynb) |
+
 ### running this locally
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
   party tools using what is in
