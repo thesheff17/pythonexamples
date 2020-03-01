@@ -1,6 +1,6 @@
 # python3 examples/tutorials
 
-## More information can be found at the [https://python.org](https://python.org) website.
+## More information can be found at the [python](https://python.org) website.
 
 Please make pull requests if you see issues or want enhancements.  
 
