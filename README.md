@@ -26,6 +26,8 @@ Please make pull requests if you see issues or want enhancements.
 | 0017_sqlachemy.ipynb                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0017_sqlalchemy.ipynb) |
 | 0018_decorators.ipynb                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0018_decorators.ipynb) |
 | 0019_memory_speed_optimizations.ipynb | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0019_memory_speed_optimizations.ipynb) |
+| 0020_args_kwargs.ipynb                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thesheff17/pythonexamples/master?filepath=src%2F0020_args_kwargs.ipynb) |
+
 
 ### running this locally on your computer
 * you should run this inside a virtualenv setup.  A virtualenv is an isolated area to install 3rd
