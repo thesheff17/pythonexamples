@@ -36,11 +36,22 @@ Please make pull requests if you see issues or want enhancements.
 * Each operating system installation is a little different.  See [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) for installing on each platform: mac/linux/windows
 * once you have the python virtualenv activated we want to clone the repo:
 ```bash
+mkdir ~/git/
+cd ~/git/
 git clone git@github.com:thesheff17/pythonexamples.git
 ```
-* now lets install the packages:
+
+* now create a virtualenv for this project.  Always use a virtualenv env.  
 ```bash
-cd pythonexamples
+mkdir ~/.virtualenv
+cd ~/.virtualenv
+python3 -m venv pythonexamples
+source pythonexamples/bin/activate
+ ```
+ 
+* now lets install the pip packages:
+```bash
+cd ~/git/pythonexamples
 pip install -r requirements.txt
 ```
 * you can always see what packages are installed with:
