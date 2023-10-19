@@ -1,4 +1,4 @@
-awscli==1.26.4
+awscli==1.29.66
 boto==2.49.0
 boto3==1.25.4
 botocore==1.28.4
