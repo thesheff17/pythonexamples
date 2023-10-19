@@ -9,7 +9,7 @@ pyasn1==0.4.8
 python-dateutil==2.8.1
 PyYAML==6.0.1
 rsa==4.7
-s3transfer==0.6.0
+s3transfer==0.7.0
 six==1.14.0
 urllib3==1.26.5
 pid==2.2.5
