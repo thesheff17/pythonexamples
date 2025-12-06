@@ -9,6 +9,6 @@ python-dateutil==2.9.0
 PyYAML==6.0.2
 s3transfer==0.10.3
 six==1.16.0
-urllib3==2.2.3
+urllib3==2.6.0
 pid==3.0.4
 SQLAlchemy==2.0.35
